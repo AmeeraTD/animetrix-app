@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+asgardeoConfig.js
+# make the asgardeoConfig.js file with following stuff
+#const asgardeoConfig = {
+#clientID: "your client id",
+#baseUrl: "your base url",
+#signInRedirectURL: "http://localhost:5173",
+#signOutRedirectURL: "http://localhost:5173",
+#scope: ["openid", "profile"],
+#resourceServerURLs:["https://bdc81b0c-bae6-43e8-b4aa-0702a82aee77-prod.e1-us-east-azure.choreoapis.dev/animetrix/movie-catalog-service/v1.0/categories"]
+#};
+#export default asgardeoConfig;
